@@ -1,0 +1,78 @@
+/* Pon aquí el código CSS que necesites para aplicar los estilos necesarios */
+
+#Caja{
+    position: relative;
+    top: 95px;
+    left: 300px;
+}
+#parrafo2{
+    position: relative;
+    bottom: 20px;
+
+}
+#caja3{
+    position: relative;
+    left: 300px;
+
+
+}
+    
+.act2{
+    position: relative;
+}
+#caja1act2{
+    position: absolute;
+    right: 0px;
+}
+#caja3act2{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+#parrafo1act2{
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+}
+
+/* Quizá para algunas actividades debas modificar estilos estilos según corresponda */
+.contenedor-actividades .act7 .imagen-gato{
+    float: left;
+}
+
+.contenedor-actividades .act7 .imagen-perros{
+    float: right;
+}
+
+.contenedor-actividades .act8-contenedor{
+    position: relative;
+}
+
+.contenedor-actividades .act8 .imagen-perros{
+    float: right;
+    position: absolute;
+    left: 10px;
+    border: 1px solid black;
+}
+
+.contenedor-actividades .act8 .imagen-gato{
+    float: left;
+    position: absolute;
+    left: 90px;
+    top: 30px;
+    border: 1px solid black;
+}
+
+.contenedor-actividades .act8 .imagen-pajaro{
+    float: left;
+    position: absolute;
+    left: 90px;
+    top: 90px;
+    border: 1px solid black;
+}
+
+.contenedor-actividades .act9 .act9-contenedor{
+    width: 500px;
+    border: 3px dotted gray;
+}
